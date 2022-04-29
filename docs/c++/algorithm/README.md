@@ -2,4 +2,4 @@
 
 ## 排序算法
 
-> [归并排序](C++/algorithm/merge-sort.md)
+> [归并排序](c++/algorithm/merge-sort.md)
