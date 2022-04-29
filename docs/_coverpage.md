@@ -1,6 +1,8 @@
+![logo](pictures/egg.jpg)
+
 # Reef's blogs
 
-> 我要开始装逼了
+> 本网站仅供个人学习使用,侵删
 
 [github](https://github.com/reef-hub)
-[滚动鼠标](#introduction)
+[get started](README.md)
