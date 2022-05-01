@@ -1,5 +1,5 @@
 # 动漫
 
-> [动漫](cartoon.md)
+> [动漫](/interests/cartoon.md)
 
-> [电影](movies.md)
+> [电影](/interests/movies.md)
