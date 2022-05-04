@@ -3,6 +3,7 @@
     - [语法](c++/grammar/)
     - [刷题](c++/algorithm/)
     - [数据结构](c++/data_structure/)
+    - [primer](c++/primer/)
     
 - 设计模式
 
