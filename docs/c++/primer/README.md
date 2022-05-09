@@ -1,2 +1,2 @@
 
-> [第7章-类](chapter7/)
+> [第7章-类](/c%2B%2B/primer/chapter7/)
