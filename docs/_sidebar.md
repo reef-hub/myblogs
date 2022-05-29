@@ -8,15 +8,20 @@
 - 计算机网络
 
   - [计算机网络](network/)
+
+- 操作系统
+
+  - [操作系统](operating_system/)
     
 - 设计模式
 
-  - [第一章节](desgin-pattern/)
   - [工厂模式](desgin-pattern/)
-  - [原型模式](desgin-pattern/)
-  - [代理模式](desgin-pattern/)
 
 
 - 数据库
 
-- [兴趣](interests/) 
+  - [数据库](database/) 
+
+- 兴趣
+
+  - [兴趣](interests/) 

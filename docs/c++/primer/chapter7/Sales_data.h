@@ -1,5 +1,10 @@
 #include<string>
-struct Sales_data {
+class Sales_data {
+    // 为Sales_data 的非成员函数所作的友元声明
+    friend Sales_data add(const Sales_data&, const Sales_data&);
+    friend std::istream& read(std::istream&, Sales_data&);
+    friend std::ostream& print(std::ostream&, const Sales_data&);
+public:
     //构造函数
     Sales_data() = default;
     Sales_data(const std::string& s) : bookNo(s) {}
@@ -17,6 +22,7 @@ struct Sales_data {
     std::string isbn() const {return bookNo;}
     Sales_data& combine(const Sales_data&);
     double avg_price() const;
+private:
     // 成员变量
     std::string bookNo;
     unsigned units_sold = 0;
