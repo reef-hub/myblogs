@@ -1046,10 +1046,10 @@ union在使用的时候有注意事项吗？
 
 		clob
 			字符大对象
+			Character Large OBject:CLOB
 			最多可以存储4G的字符串。
 			比如：存储一篇文章，存储一个说明。
 			超过255个字符的都要采用CLOB字符大对象来存储。
-			Character Large OBject:CLOB
 
 
 		blob
@@ -1347,3 +1347,5 @@ union在使用的时候有注意事项吗？
 	insert into t_user(id) values(2);
 
 	delete from t_user; // 删除所有！
+
+对应课程至P76
