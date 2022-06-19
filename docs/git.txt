@@ -1,0 +1,8 @@
+git remote set-url origin https://github.com/reef-hub/myblogs
+
+
+
+git remote set-url origin git@github.com:reef-hub/myblogs.git
+git add .
+git commit -m "initial commit"
+git push -u origin master
